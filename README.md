@@ -54,12 +54,6 @@ The aim is to design and implement a **2-bit Multiplier** using **Cadence Virtuo
 ![Screenshot 2025-05-10 160515](https://github.com/user-attachments/assets/880ad1be-e8b3-4111-b2ea-2b2c7eb1fd14)
 
 
-
-### Schematicand Symbol of Half Adder:
-![Screenshot 2025-05-10 160535](https://github.com/user-attachments/assets/5d98f983-d6b7-42b9-8f16-17407b2010b2)
-
-![Screenshot 2025-05-10 161100](https://github.com/user-attachments/assets/bfaa7af0-6785-46e4-b434-87d677af5807)
-
 ### Schematic of 2-Bit Multiplier:
 <img width="1920" height="1200" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/8bc98ac2-136b-4ed6-8c31-07146055a5ef" />
 
